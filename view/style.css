@@ -1,0 +1,8 @@
+body{
+	background-color: dodgerblue;
+}
+#output,img{
+width:250px;
+height:350px;
+padding: 30px;
+}
